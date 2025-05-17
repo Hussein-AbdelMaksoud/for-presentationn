@@ -1,0 +1,6 @@
+# Ignore appsettings files
+appsettings.json
+appsettings.Development.json
+
+# Ignore migrations folder
+Data/Migrations/

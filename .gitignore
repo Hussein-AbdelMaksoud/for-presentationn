@@ -1,0 +1,81 @@
+# Temporary files and backups
+*.swp
+*.*~
+project.lock.json
+.DS_Store
+*.pyc
+
+# Visual Studio Code
+.vscode/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+msbuild.log
+msbuild.err
+msbuild.wrn
+
+# Visual Studio
+.vs/
+
+# Rider IDE
+.idea/
+*.sln.iml
+
+# NuGet
+*.nupkg
+*.snupkg
+project.assets.json
+packages/
+.nuget/
+
+# Logs
+*.log
+
+# Environment files
+.env
+.env.*
+
+# Test results
+TestResults/
+*.coverage
+*.coveragexml
+
+
+# Generated files
+*.gen.cs
+*.generated.cs
+*.designer.cs
+
+# Cache and temporary folders
+*.cache/
+*.tmp/
+*.pidb
+*.tlog
+*.idb
+*.pdb
+
+
+# macOS specific
+.DS_Store
+
+# Windows specific
+Thumbs.db
+desktop.ini
+
+# Linux specific
+*~ 
